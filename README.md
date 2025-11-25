@@ -2,7 +2,7 @@
   <h1 align="center">Hi there, I'm <a href="[Link to your portfolio]">Atharva Pansare</a>! 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=750&color=39FF14&center=true&vCenter=true&width=535&lines=Full+Stack+Developer;Machine+Learning+Engineer;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=750&color=45CC2D&center=true&vCenter=true&width=535&lines=Machine+Learning+Engineer;Full+Stack+Developer;Always+Learning..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/atharva-s-pansare">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[your-email]@gmail.com">
+  <a href="mailto:atharvapansare07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
