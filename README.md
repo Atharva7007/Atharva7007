@@ -1,13 +1,13 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm <a href="[Link to your portfolio]">[Your Name]</a>! 👋</h1>
+  <h1 align="center">Hi there, I'm <a href="[Link to your portfolio]">Atharva Pansare</a>! 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Engineer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=535&lines=Full+Stack+Developer;Machine+Learning+Engineer;;Always+Learning..." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-handle]">
+  <a href="https://linkedin.com/in/atharva-s-pansare">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[your-email]@gmail.com">
