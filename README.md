@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I’m currently a Master's student focusing on **Computer Science** and **AI/ML**.
+- 🎓 I recently graduated with a **Master of Science in Computer Science** from **North Carolina State University** with a **4.0 GPA**.
 - 🔭 I’m currently working on **High-performance ML models** and **Full-stack Web Apps**.
 - 🌱 I’m currently learning about **Large Language Models (LLMs)** and **System Design**.
 - 👯 I’m looking to collaborate on **Open Source AI projects**.
