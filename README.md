@@ -1,1 +1,77 @@
-<!-- Header with Typing SVG Effect --><div align="center"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D28%26duration%3D3000%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere!%2B%25F0%259F%2591%258B%2BI%27m%2BAtharva%3BSoftware%2BEngineer%3BAI%252FML%2BEnthusiast%3BNC%2BState%2BGrad%2B(4.0%2BGPA)" alt="Typing SVG" /></div><div align="center"><br /><h3>🚀 Transforming ideas into scalable software & intelligent models</h3><br /></div><!-- About Me Section -->👨‍💻 About MeI recently graduated with a Master's in Computer Science from North Carolina State University with a perfect 4.0 GPA. I bridge the gap between robust Full-Stack Engineering and cutting-edge AI/ML research.🔭 I’m currently looking for opportunities in AI/ML and Software Engineering.🏆 Hackathon Winner: Secured wins at NC PSI Hackathon & Hack_NCState.💡 Specialties: Building RAG workflows, Real-time systems with Kafka, and Computer Vision models.🎓 Education: MS CS @ NC State (2025) | B.Tech CSE @ MIT WPU (2023).<!-- Tech Stack with "Flashy" Badges -->🛠️ Tech Stack<div align="center">LanguagesFrontend & BackendMachine Learning & DataDevOps & Tools</div><!-- Projects Section -->💻 Featured ProjectsProjectTech StackDescriptionRAG Fraud Detection  🥈 Hack_NCState 2nd PlaceFastAPI React MongoDB NginxReal-time fraud detection app using Retrieval-Augmented Generation. Deployed with CI/CD pipelines and Nginx reverse proxy.Object Detection  🏆 NC PSI WinnerYOLOv8 Python AWS SageMakerWinner of 3-day hackathon. Trained and deployed an object detection model using AWS SageMaker.Real-time Chat AppNode.js Kafka React DockerWebSocket-based chat system using Apache Kafka for message persistence and broadcasting via Dockerized consumers.Event Management SystemFlask React SQLiteFull-stack CRUD application with role-based access control and RESTful API architecture.<!-- Experience Section -->💼 Experience🔬 Research Assistant @ NC State University (Dr. Sihi Lab)Dec 2024 - PresentDeveloping process-based models for soil respiration/methane flux using Python & R.Running large-scale simulations on HPC clusters for parameter estimation.🛠️ SWE / ML Intern @ KPOINT TechnologiesJul 2022 - Jan 2023Built a Real-time Thumbnail Recommendation System (95% accuracy) using TensorFlow.Developed REST APIs with CherryPy and containerized the solution using Docker.Automated dataset storage/retrieval with AWS S3.<!-- GitHub Stats Section (Flashy) -->📊 GitHub Stats<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME_HERE%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" alt="Atharva's GitHub Stats" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME_HERE%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" alt="Top Languages" /></div><!-- Snake Animation (Optional but very popular) --><div align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME_HERE%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" alt="GitHub Streak" /></div><!-- Footer / Connect --><div align="center"><h3>📫 Let's Connect!</h3><p><a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /></a><a href="mailto:YOUR_EMAIL@ncsu.edu"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /></a></p></div>
+<div align="center">
+  <h1 align="center">Hi there, I'm <a href="[Link to your portfolio]">[Your Name]</a>! 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Engineer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/[your-linkedin-handle]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[your-email]@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🎓 I’m currently a Master's student focusing on **Computer Science** and **AI/ML**.
+- 🔭 I’m currently working on **High-performance ML models** and **Full-stack Web Apps**.
+- 🌱 I’m currently learning about **Large Language Models (LLMs)** and **System Design**.
+- 👯 I’m looking to collaborate on **Open Source AI projects**.
+- ⚡ Fun fact: I am a huge fan of **The Witcher 3** and **Sekiro**.
+
+---
+
+### 🛠️ Languages and Tools
+
+#### **Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+#### **Machine Learning & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### **Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Backend & Databases**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
